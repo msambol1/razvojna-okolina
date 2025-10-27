@@ -2,3 +2,16 @@ body {
     background: green;
     color: white;
 }
+
+input[type="text"] {
+    padding: 8px;
+    width: 80%;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+#output {
+    margin-top: 15px;
+    font-weight: bold;
+}
